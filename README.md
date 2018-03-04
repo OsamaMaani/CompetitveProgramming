@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-13 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [GNU C++11](./codeforces/1487/A.cpp) | `implementation` `sortings` `*800` | Feb/20/2021 00:52 | 
-12 | [A - Romaji](https://codeforces.com/contest/1008/problem/A) | [PyPy 3](./codeforces/1008/A.py) | `implementation` `strings` `*900` | Jun/30/2020 17:07 | 
-11 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [PyPy 3](./codeforces/405/A.py) | `greedy` `implementation` `sortings` `*900` | Jun/30/2020 16:41 | 
-10 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [PyPy 3](./codeforces/791/A.py) | `implementation` `*800` | Jun/30/2020 15:12 | 
-9 | [A - Word](https://codeforces.com/contest/59/problem/A) | [PyPy 3](./codeforces/59/A.py) | `implementation` `strings` `*800` | Jun/30/2020 14:49 | 
-8 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [PyPy 3](./codeforces/677/A.py) | `implementation` `*800` | Jun/30/2020 14:19 | 
-7 | [A - Help Vasilisa the Wise 2](https://codeforces.com/contest/143/problem/A) | [GNU C++17](./codeforces/143/A.cpp) | `brute force` `math` `*1000` | Apr/29/2020 05:42 | 
-6 | [A - Collecting Coins](https://codeforces.com/contest/1294/problem/A) | [GNU C++17](./codeforces/1294/A.cpp) | `math` `*800` | Jan/22/2020 17:17 | 
-5 | [A - Three Friends](https://codeforces.com/contest/1272/problem/A) | [GNU C++17](./codeforces/1272/A.cpp) | `brute force` `greedy` `math` `sortings` `*900` | Dec/12/2019 17:17 | 
-4 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [GNU C++11](./codeforces/102/B.cpp) | `implementation` `*1000` | Aug/30/2018 02:13 | 
-3 | [A - Feed the cat](https://codeforces.com/contest/955/problem/A) | [GNU C++](./codeforces/955/A.cpp) | `greedy` `math` `*1100` | Mar/24/2018 00:53 | 
-2 | [A - ACM ICPC](https://codeforces.com/contest/886/problem/A) | [GNU C++](./codeforces/886/A.cpp) | `brute force` `*1000` | Mar/07/2018 00:24 | 
-1 | [A - Friends Meeting](https://codeforces.com/contest/931/problem/A) | [GNU C++](./codeforces/931/A.cpp) | `brute force` `greedy` `implementation` `math` `*800` | Mar/04/2018 17:43 | 
+14 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [GNU C++11](./codeforces/1487/A.cpp) | `implementation` `sortings` `*800` | Feb/20/2021 00:52 | 
+13 | [A - Romaji](https://codeforces.com/contest/1008/problem/A) | [PyPy 3](./codeforces/1008/A.py) | `implementation` `strings` `*900` | Jun/30/2020 17:07 | 
+12 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [PyPy 3](./codeforces/405/A.py) | `greedy` `implementation` `sortings` `*900` | Jun/30/2020 16:41 | 
+11 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [PyPy 3](./codeforces/791/A.py) | `implementation` `*800` | Jun/30/2020 15:12 | 
+10 | [A - Word](https://codeforces.com/contest/59/problem/A) | [PyPy 3](./codeforces/59/A.py) | `implementation` `strings` `*800` | Jun/30/2020 14:49 | 
+9 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [PyPy 3](./codeforces/677/A.py) | `implementation` `*800` | Jun/30/2020 14:19 | 
+8 | [A - Help Vasilisa the Wise 2](https://codeforces.com/contest/143/problem/A) | [GNU C++17](./codeforces/143/A.cpp) | `brute force` `math` `*1000` | Apr/29/2020 05:42 | 
+7 | [A - Collecting Coins](https://codeforces.com/contest/1294/problem/A) | [GNU C++17](./codeforces/1294/A.cpp) | `math` `*800` | Jan/22/2020 17:17 | 
+6 | [A - Three Friends](https://codeforces.com/contest/1272/problem/A) | [GNU C++17](./codeforces/1272/A.cpp) | `brute force` `greedy` `math` `sortings` `*900` | Dec/12/2019 17:17 | 
+5 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [GNU C++11](./codeforces/102/B.cpp) | `implementation` `*1000` | Aug/30/2018 02:13 | 
+4 | [A - Feed the cat](https://codeforces.com/contest/955/problem/A) | [GNU C++](./codeforces/955/A.cpp) | `greedy` `math` `*1100` | Mar/24/2018 00:53 | 
+3 | [A - ACM ICPC](https://codeforces.com/contest/886/problem/A) | [GNU C++](./codeforces/886/A.cpp) | `brute force` `*1000` | Mar/07/2018 00:24 | 
+2 | [A - Friends Meeting](https://codeforces.com/contest/931/problem/A) | [GNU C++](./codeforces/931/A.cpp) | `brute force` `greedy` `implementation` `math` `*800` | Mar/04/2018 17:43 | 
+1 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [GNU C++](./codeforces/486/A.cpp) | `implementation` `math` `*800` | Mar/04/2018 16:42 | 
