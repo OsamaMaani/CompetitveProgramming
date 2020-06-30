@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [GNU C++11](./codeforces/1487/A.cpp) | `implementation` `sortings` `*800` | Feb/20/2021 00:52 | 
+2 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [GNU C++11](./codeforces/1487/A.cpp) | `implementation` `sortings` `*800` | Feb/20/2021 00:52 | 
+1 | [A - Romaji](https://codeforces.com/contest/1008/problem/A) | [PyPy 3](./codeforces/1008/A.py) | `implementation` `strings` `*900` | Jun/30/2020 17:07 | 
