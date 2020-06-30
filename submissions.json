@@ -184,5 +184,22 @@
       "*800"
     ],
     "timestamp": "Jan/01/2022 05:59"
+  },
+  "CF85552603": {
+    "contest_id": 1008,
+    "language": "PyPy 3",
+    "path": "codeforces/1008/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Romaji",
+    "problem_url": "https://codeforces.com/contest/1008/problem/A",
+    "submission_id": "CF85552603",
+    "submission_url": "https://codeforces.com/contest/1008/submission/85552603",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/30/2020 17:07"
   }
 }
