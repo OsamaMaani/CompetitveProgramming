@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/OsamaMaani.svg)](https://codeforces.com/profile/OsamaMaani)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C++14](./codeforces/50/A.cpp) | `greedy` `math` `*800` | Jan/01/2022 05:59 | 
